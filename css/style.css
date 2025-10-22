@@ -1,0 +1,66 @@
+.backgroundcolor {
+    background-color:#BBB6A1;
+}
+
+.siteheader {
+  background-color: #5a6b3f; 
+  color: white;
+  padding: 10px 40px;
+  gap: 30px;
+  width: 100%;
+}
+
+.bg1page {
+    background-color:#5a6b3f;
+    color:white
+}
+
+.bg2page {
+    background-color:#b5af85;
+    color: #403229;
+}
+
+
+.fontcolor{
+    color:black;
+}
+
+.colorbox {
+  background-color: #b5af85;
+  color: #403229;
+  padding: 30px 60px;
+  border-radius: 8px;
+  text-align: center;
+  margin-right: 60px;        
+  position: absolute;     
+  right: 0;           
+}
+
+.colorbox2 {
+  background-color:#5a6b3f;
+  padding: 30px 60px;
+  text-align: center;
+  margin-top: 50px; 
+  margin-bottom: 50px;
+}
+
+.colorbox3 {
+  background-color: #b5af85;
+  color: black;
+  padding: 30px 60px;
+  border-radius: 8px;
+  text-align: center;
+  max-width: 1200px;
+}
+
+.itim-regular {
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.merriweather {
+  font-family: "Merriweather", serif;
+  font-weight: 400;
+  font-style: normal;
+}
